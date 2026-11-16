@@ -10,7 +10,7 @@ public class Funciones3 {
 		return dividir;
 	}
 	public static boolean positivo(int n1) {
-		if (n1>=0) {
+		if (n1>=0) { 
 			return true;
 		}else {
 			return false;
