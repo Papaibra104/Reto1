@@ -17,7 +17,7 @@ public class Funciones3 {
 		}else {
 			return false;
 		}
-		//positivo y negativo
+		//positivo y negativos
 	}
 
 }
