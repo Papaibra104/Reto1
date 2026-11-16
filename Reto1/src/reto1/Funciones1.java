@@ -6,9 +6,8 @@ public class Funciones1 {
 		
 		int mayor = Math.max(Math.max(n1, n2), n3);
 		
-		
 		return mayor;
-	
+	// Devuelve el mayor de los 3 numeros
 		
 	}
 	
@@ -18,15 +17,8 @@ public class Funciones1 {
 		int menor = Math.min(Math.min(n1, n2), n3);
 		
 		return menor;
-		
+		// Devuelve el menor de los 3 numeros
 	}
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	
